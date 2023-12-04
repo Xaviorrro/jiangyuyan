@@ -1,4 +1,5 @@
-参考https://openprocessing.org/sketch/2020240，进行了在processing上的改写
+参考https://openprocessing.org/sketch/2020240
+，进行了在processing上的改写
 
 
 基于physarum（多头粘液菌丝仿真算法）的连续图案生成
